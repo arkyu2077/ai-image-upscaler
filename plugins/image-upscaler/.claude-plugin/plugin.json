@@ -1,0 +1,22 @@
+{
+  "name": "image-upscaler",
+  "version": "1.0.0",
+  "description": "Plan and prepare 2x/4x/8x/16x (up to 16K) AI image super-resolution batches, 300 DPI print sizing, and photo cleanup workflows with Monipix (https://monipix.com).",
+  "author": {
+    "name": "Monipix",
+    "email": "support@monipix.com",
+    "url": "https://monipix.com"
+  },
+  "homepage": "https://monipix.com",
+  "repository": "https://github.com/arkyu2077/ai-image-upscaler",
+  "license": "MIT",
+  "keywords": [
+    "image-upscaler",
+    "super-resolution",
+    "photo-enhancer",
+    "16k",
+    "4k",
+    "monipix"
+  ],
+  "skills": "./skills/"
+}

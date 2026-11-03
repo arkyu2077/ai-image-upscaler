@@ -1,0 +1,36 @@
+{
+  "name": "monipix-plugins",
+  "owner": {
+    "name": "Monipix",
+    "email": "support@monipix.com",
+    "url": "https://monipix.com"
+  },
+  "metadata": {
+    "description": "Claude Code skills and batch preparation utilities for Monipix (https://monipix.com) — AI image super-resolution up to 16K, object removal, and in-image text editing.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "image-upscaler",
+      "source": "./plugins/image-upscaler",
+      "description": "Plan and prepare 2x/4x/8x/16x (up to 16K) AI image super-resolution batches, 300 DPI print sizing, and photo cleanup workflows with Monipix.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Monipix",
+        "url": "https://monipix.com"
+      },
+      "homepage": "https://monipix.com",
+      "repository": "https://github.com/arkyu2077/ai-image-upscaler",
+      "license": "MIT",
+      "category": "media",
+      "keywords": [
+        "image-upscaler",
+        "super-resolution",
+        "photo-enhancer",
+        "16k",
+        "4k",
+        "monipix"
+      ]
+    }
+  ]
+}
