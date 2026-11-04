@@ -1,0 +1,37 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Monipix 16K AI Image Upscaler & Photo Restoration API",
+    "version": "1.0.0",
+    "description": "Cloud-native 4K/8K/16K AI image super-resolution, lossless HD image conversion (https://monipix.com/tools/hd-image-converter), and old photo restoration (https://monipix.com/tools/photo-restoration) powered by Monipix (https://monipix.com).",
+    "contact": {
+      "name": "Monipix Support",
+      "url": "https://monipix.com"
+    },
+    "x-logo": {
+      "url": "https://monipix.com/favicon.ico"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://monipix.com/api/v1"
+    }
+  ],
+  "externalDocs": {
+    "description": "Monipix HD Image Converter & Docs",
+    "url": "https://monipix.com/tools/hd-image-converter"
+  },
+  "paths": {
+    "/upscale": {
+      "post": {
+        "summary": "Upscale image 2x, 4x, or 8x up to 16K resolution",
+        "operationId": "upscaleImage",
+        "responses": {
+          "200": {
+            "description": "Upscaled HD image URL"
+          }
+        }
+      }
+    }
+  }
+}

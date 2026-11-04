@@ -1,0 +1,28 @@
+{
+  "name": "arkyu2077/monipix",
+  "description": "Official PHP SDK & MCP integration helper for Monipix \u2014 4K/8K/16K AI Image Upscaler, HD Image Converter & Old Photo Restoration (https://monipix.com)",
+  "type": "library",
+  "homepage": "https://monipix.com",
+  "license": "MIT",
+  "keywords": [
+    "monipix",
+    "image-upscaler",
+    "super-resolution",
+    "photo-restoration",
+    "hd-image-converter",
+    "mcp"
+  ],
+  "authors": [
+    {
+      "name": "Monipix Team",
+      "homepage": "https://monipix.com"
+    }
+  ],
+  "support": {
+    "docs": "https://monipix.com/tools/hd-image-converter",
+    "source": "https://github.com/arkyu2077/ai-image-upscaler"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}

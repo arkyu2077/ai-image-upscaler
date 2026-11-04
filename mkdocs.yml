@@ -1,0 +1,8 @@
+site_name: Monipix — 4K/8K/16K AI Image Upscaler & Photo Restoration Docs
+site_url: https://monipix.com/
+repo_url: https://github.com/arkyu2077/ai-image-upscaler
+site_description: Official developer & workflow documentation for Monipix (monipix.com) — 4K/8K/16K AI Image Super-Resolution, HD Image Converter, Old Photo Restoration, and E-Commerce Batch Enhancement.
+nav:
+  - Home & Overview: index.md
+  - 16K HD Image Converter & Batch Upscaling: hd-image-converter.md
+  - Old Photo Restoration & Object Removal: photo-restoration.md
