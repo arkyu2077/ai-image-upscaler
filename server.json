@@ -1,0 +1,10 @@
+{
+  "name": "io.github.arkyu2077/ai-image-upscaler",
+  "description": "Monipix AI Image Upscaler, Restorer & Super-Resolution MCP Server (https://www.monipix.com)",
+  "homepage": "https://www.monipix.com",
+  "repository": {
+    "url": "https://github.com/arkyu2077/ai-image-upscaler",
+    "source": "github"
+  },
+  "version": "1.0.0"
+}
